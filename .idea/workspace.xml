@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65d4c08a-a467-4a05-a70d-7fdd413afacc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/itcast-tanhua-common/src/main/java/com/tanhua/common/pojo/BlackList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-tanhua-common/src/main/java/com/tanhua/common/pojo/Settings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-tanhua-data/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-tanhua-data/src/main/java/com/tanhua/data/DataApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-tanhua-data/src/main/java/com/tanhua/recommend/pojo/RecommendQuanZi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-tanhua-data/src/main/java/com/tanhua/recommend/pojo/RecommendVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-tanhua-data/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-tanhua-data/src/test/java/com/tanhua/data/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/handler/MyMetaObjectHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/mapper/BlackListMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/mapper/SettingsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/service/BlackListService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/service/SettingsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/vo/BlackListVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/vo/CountsVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/vo/SettingsVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/vo/UserLikeListVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-tanhua-sso/src/main/java/com/tanhua/sso/service/UsersService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArcFace64.dat" beforeDir="false" afterPath="$PROJECT_DIR$/ArcFace64.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-dubbo/itcast-tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/server/api/UserLikeApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-dubbo/itcast-tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/server/api/UserLikeApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-dubbo/itcast-tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/server/api/UsersApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-dubbo/itcast-tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/server/api/UsersApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-dubbo/itcast-tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/server/api/VisitorsApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-dubbo/itcast-tanhua-dubbo-interface/src/main/java/com/tanhua/dubbo/server/api/VisitorsApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-dubbo/itcast-tanhua-dubbo-service-quanzi/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-dubbo/itcast-tanhua-dubbo-service-quanzi/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-dubbo/itcast-tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/server/api/UserLikeApiImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-dubbo/itcast-tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/server/api/UserLikeApiImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-dubbo/itcast-tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/server/api/UsersApiImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-dubbo/itcast-tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/server/api/UsersApiImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-dubbo/itcast-tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/server/api/VisitorsApiImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-dubbo/itcast-tanhua-dubbo-service/src/main/java/com/tanhua/dubbo/server/api/VisitorsApiImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-dubbo/itcast-tanhua-dubbo-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-dubbo/itcast-tanhua-dubbo-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-dubbo/itcast-tanhua-dubbo-service/src/test/java/com/tanhua/dubbo/server/api/TestUserLikeApiImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-dubbo/itcast-tanhua-dubbo-service/src/test/java/com/tanhua/dubbo/server/api/TestUserLikeApiImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-elasticsearch/itcast-tanhua-elasticsearch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-elasticsearch/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-elasticsearch/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-recommend/itcast-tanhua-recommend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/controller/UsersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/controller/UsersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/service/IMService.java" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/service/IMService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/service/MovementsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/service/MovementsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/service/QuestionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/service/QuestionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/service/TodayBestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/service/TodayBestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/service/UsersService.java" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-server/src/main/java/com/tanhua/server/service/UsersService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-sso/src/main/java/com/tanhua/sso/controller/HuanXinController.java" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-sso/src/main/java/com/tanhua/sso/controller/HuanXinController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-sso/src/main/java/com/tanhua/sso/controller/UsersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-sso/src/main/java/com/tanhua/sso/controller/UsersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-sso/src/main/java/com/tanhua/sso/service/HuanXinService.java" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-sso/src/main/java/com/tanhua/sso/service/HuanXinService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-sso/src/main/java/com/tanhua/sso/service/SmsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-sso/src/main/java/com/tanhua/sso/service/SmsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-sso/src/main/java/com/tanhua/sso/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-sso/src/main/java/com/tanhua/sso/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itcast-tanhua-sso/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/itcast-tanhua-sso/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Maven_Repository" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1vJyDodhlLgy6prpTsaj68BbZKf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="itcast-tanhua-sso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tanhua.sso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tanhua.sso.MyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MyApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65d4c08a-a467-4a05-a70d-7fdd413afacc" name="Default Changelist" comment="" />
+      <created>1626294368222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626294368222</updated>
+      <workItem from="1626294376132" duration="196000" />
+      <workItem from="1626330852467" duration="1330000" />
+      <workItem from="1626372433768" duration="147000" />
+      <workItem from="1626623770353" duration="983000" />
+      <workItem from="1626730222076" duration="911000" />
+      <workItem from="1626768257715" duration="655000" />
+      <workItem from="1627650518262" duration="651000" />
+      <workItem from="1627820702803" duration="2956000" />
+      <workItem from="1627870535031" duration="3244000" />
+      <workItem from="1627892251817" duration="996000" />
+      <workItem from="1627961455418" duration="1588000" />
+      <workItem from="1628416381305" duration="186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1920" y="139" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626294530336">
+      <screen x="1920" y="-447" width="1080" height="1880" />
+    </state>
+    <state x="1920" y="139" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.-447.1080.1880@1920.-447.1080.1880" timestamp="1626294530336" />
+    <state x="1976" y="337" width="967" height="324" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1626730390331">
+      <screen x="1920" y="-447" width="1080" height="1880" />
+    </state>
+    <state x="1976" y="337" width="967" height="324" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/1920.-447.1080.1880@1920.-447.1080.1880" timestamp="1626730390331" />
+    <state width="1483" height="196" key="GridCell.Tab.0.bottom" timestamp="1627824384530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1627824384530" />
+    <state width="1483" height="196" key="GridCell.Tab.0.center" timestamp="1627824384530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="196" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1627824384530" />
+    <state width="1483" height="196" key="GridCell.Tab.0.left" timestamp="1627824384529">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="196" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1627824384529" />
+    <state width="1483" height="196" key="GridCell.Tab.0.right" timestamp="1627824384530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="196" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1627824384530" />
+  </component>
+</project>
